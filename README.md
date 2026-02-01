@@ -1,2 +1,2 @@
 # user_service
-This is a user service code
+This is the user service code
